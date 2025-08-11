@@ -1,0 +1,5 @@
+package com.senac.lojavirtual.model;
+
+public class Produto {
+
+}
